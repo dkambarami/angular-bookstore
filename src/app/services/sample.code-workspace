@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\.."
+		},
+		{
+			"name": "angular-bookstore",
+			"path": "..\\..\\..\\angular-bookstore"
+		},
+		{
+			"name": "angular-bookstore-1",
+			"path": "..\\..\\..\\angular-bookstore-1"
+		}
+	],
+	"settings": {}
+}
